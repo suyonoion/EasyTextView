@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml
+		INJECTED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml
+		INJECTED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml
+		INJECTED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:5:5-72
+	android:name
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:5:22-70
+application
+ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:7:5-22:19
+	android:label
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:11:9-40
+activity#id.mykode.easytextview.MainActivity
+ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:18:27-74
+activity#id.mykode.easytextview.SettingTampilkanText
+ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:21:3-87
+	android:label
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:21:50-85
+	android:name
+		ADDED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml:21:13-49
+uses-sdk
+INJECTED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml
+		INJECTED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml
+		INJECTED from F:\xampp\htdocs\konten\EasyTextView\app\src\main\AndroidManifest.xml
